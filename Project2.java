@@ -2,8 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.util.Arrays;
 
-// This project reads a set of integers from a file and finds the median.
-// Note the name of the class is Project0 as required.
+
 public class Project2 {
    public static void main(String[] args) {
       Project2 s = new Project2();
